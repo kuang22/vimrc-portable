@@ -5,5 +5,5 @@
 ## 快速部署
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/kuang22/vimrc/main/.vimrc -o ~/.vimrc
+curl -fsSL https://raw.githubusercontent.com/kuang22/vimrc/master/.vimrc -o ~/.vimrc
 vim +PlugInstall +qall
